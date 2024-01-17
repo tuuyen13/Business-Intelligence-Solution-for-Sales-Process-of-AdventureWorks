@@ -40,7 +40,7 @@ The objective of project is to implement BI Solution for the Sales Process of Ad
 
 4. Data Warehouse model 
   
-![image](https://github.com/tuuyen13/Business-Intelligence-Solution-for-Sales-Process-of-AdventureWorks/assets/94332486/6b981b00-ad88-4754-9c39-b0de2031b5e5)
+![image](https://github.com/tuuyen13/Business-Intelligence-Solution-for-Sales-Process-of-AdventureWorks/assets/94332486/76321528-8e01-4e25-bb25-37a570240fd7)
 
 
  **IV. Experimental results and analysis**
